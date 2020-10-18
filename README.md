@@ -1,3 +1,3 @@
 # mathematical-methods
-### Математичні методи дослідження операцій
-Алгоритми вирішення систем рівнянь та нерівностей
+
+Program implementation of mathematical methods using Octave based on the university course "Математичні методи дослідження операцій" 
